@@ -1,0 +1,1147 @@
+/***********************************************************General CSS rules*************************************************************/
+
+body{
+    background-image: url("Assets/bg/pc.png");
+    background-repeat: no-repeat;
+    background-size: 100%;   
+        
+}
+
+.container{
+    
+    margin-top: -50px;
+}
+
+#index{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+
+#left_title{
+    margin-left: -350px;
+    margin-right: -80px;
+    line-height: 55px;
+    
+}
+
+#center_title{
+    display: inline;
+    text-align: center;
+    padding-left: 78%;
+    margin-right: 240px;
+    margin-left: -265px;
+    
+}
+
+#pos_button{
+
+    border: solid 10px #083bbc;
+    background-color: #083bbc;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 20%;
+    font-family: Myriad Pro Regular;
+    
+}
+
+#right_title{
+
+    font-size: 12px;
+    color: #dbccc8;
+    
+    /*border-top-style: solid;*/
+    border-left-width: 2px;
+    /*border-left-style: solid;*/
+    border-bottom-width: 2px;
+   /* border-bottom-style: solid;*/
+    border-right-width: 2px;
+    /*border-right-style: solid;*/
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 380px;
+    padding-right: 10px;
+    border-top-width: 2px;
+    border-radius: 10%;
+    background-color: #fff;
+    
+
+}
+
+img{
+    width: 1.8%;
+}
+
+#subtitle{
+
+    color: #9ca0a4;
+    font-size: 11px;
+    margin-top: 150px;
+    
+}
+
+#slogan{
+    margin-top: -5px;
+    font-weight: bold;
+}
+
+#button{
+    font-weight: bold;
+    border: solid 9px #083bbc;
+    background-color: #083bbc;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 5%;
+    border-right-width: 20px;
+    border-left-width: 20px;
+    border-top-width: 8px;
+    border-bottom-width: 8px;
+    margin-top: 15px;
+    
+    
+}
+
+
+#module1{
+
+    margin-top: 230px;
+    margin-left: 90px;    
+
+}
+
+#icon1,#icon2,#icon3,#icon4{
+
+    width: 3.5%;
+    
+}
+
+#icon2{
+    padding-top: 10px;
+    margin-top: -395px;
+    border-right-style: solid;
+    margin-left: 250px;
+    
+}
+
+#icon3{
+    
+    margin-left: 500px;
+    margin-top: -345px;
+}
+
+#icon4{
+
+    margin-left: 700px;
+    margin-top: -340px;
+    margin-left: 780px;
+}
+
+#header1{
+    margin-top: 25px;
+    font-weight: bold;
+    margin-left: -5px;
+    
+}
+
+#header2{
+   
+    margin-left: 239px;
+    margin-top: -155px;
+    font-weight: bold;
+    
+    
+}
+
+#header3{
+    
+    margin-left: 485px;
+    margin-top: -135px;
+    font-weight: bold;
+    
+    
+}
+
+#header4{
+
+    margin-left: 730px;
+    margin-top: -135px;
+    font-weight: bold;
+    
+}
+
+#intro1{
+    color: #9ca0a4;
+    margin-left: -90px;
+}
+
+#intro2{
+    color: #9ca0a4;
+    margin-left: 165px;
+    
+}
+
+#intro3{
+    color: #9ca0a4;
+    margin-left: 413px;
+}
+
+#intro4{
+    color: #9ca0a4;
+    margin-left: 695px;
+}
+
+#banner{
+    margin-top: 100px;
+    background-color: #fbfcfe;
+    transform: rotate(-2deg);
+    border-color: #fbfcfe;
+    border-top-style: solid;
+    border-top-width: 300px;
+    border-left-style: solid;
+    border-bottom-width: 200px;
+    border-bottom-style: solid;
+    border-left-width: 0px;
+    border-right-style: solid;
+    border-right-width: 0px;
+    margin-left: -300px;
+    margin-right: -300px;
+}
+
+#title{
+    color: #424966;
+    font-weight: bold;
+    margin-left: 300px;
+    transform: rotate(2deg);
+    margin-top: -140px;
+}
+
+#head1,#head2,#head3{
+    transform: rotate(2deg);
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+#head2{
+    margin-top: -250px;
+}
+
+#para1,#para2,#para3{
+    transform: rotate(2deg);
+    margin-left: 300px;
+    font-size: 13px;
+    color: #9ca0a4;
+    opacity: 0.7;
+}
+
+#testimonal{
+    margin-top: 150px;
+    border-left-width: 0px;
+    margin-left: 250px;
+}
+
+#quote{
+    border-left-width: 0px;
+    margin-top: -400px;
+    font-weight: bold;
+   
+}
+
+#quote_mark{
+    width: 4%;
+    margin-left: -5px;
+    margin-top: -750px;
+    
+}
+
+#small_quote{
+
+    font-size: 12px;
+    color: #9ca0a4;
+    opacity: 0.7;
+    margin-left: 38px;
+    margin-top: 20px;
+    
+}
+
+#author{
+
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+#role{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #9ca0a4;
+    opacity: 0.7;
+    font-size: 10px;
+}
+
+#banner1{
+
+    background-color: #fef8f8;
+    /*transform: rotate(1deg);*/
+    border-color: #fef8f8;
+    border-left-style: solid;
+    margin-top: 20px;
+    border-top-width: 800px;
+    border-top-style: solid;
+    margin-left: -500px;
+}
+
+#title1{
+
+    margin-left: 400px;
+    margin-top: -600px;
+    /*transform: rotate(-1deg);*/
+
+}
+
+#myform{
+
+   /* transform: rotate(-1deg);*/
+    margin-left: 400px;
+    margin-top: 40px;
+    color: #c6c6c9;
+
+}
+
+#first_name,#last_name,#email,#phone{
+
+    width: 130%;
+    height: 40px;
+}
+
+.form-group2{
+    margin-left: 65px;
+}
+
+
+.form-group1,
+.form-group2,
+.form-group3,
+.form-group4{
+
+    display: inline-block;
+}
+
+.form-group3,
+.form-group5,
+.form-group6{
+    
+    margin-top: 25px;
+}
+
+.form-group4{
+    margin-left: 65px;
+    margin-top: 25px;
+    margin-left: 65px;
+}
+
+#boutique_name,#boutique_site,#select{
+
+    width: 32%;
+    height: 40px;
+}
+
+#submit{
+
+    font-size: 8px;
+    font-weight: bold;
+    border: solid 9px #083bbc;
+    background-color: #083bbc;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 3%;
+    margin-top: 40px;
+    margin-left: 255px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+#main_photo{
+
+    width: 50%;
+    margin-left: 200px;
+    margin-top: -145px;
+}
+
+#photo2,#photo3,#photo1{
+
+    width: 34%;
+    margin-left: 800px;
+    margin-top: -180px;
+    transform: rotate(2deg);
+    
+}
+
+#logo1{
+
+    width: 4%;
+    margin-left: 200px;
+    margin-top: -300px;
+    transform: rotate(2deg);
+}
+
+#photo4{
+
+    width: 10%;
+    padding-top: 200px;
+    margin-left: 20px;
+    margin-top: -50px;
+    transform: rotate(0deg);
+    border-top-left-radius: 50%;
+    
+}
+
+#myfooter{
+    margin-left: -100px;
+    color: #c6c6c9;
+    margin-top: 30px;
+    transform: rotate(0deg);
+}
+
+#img1,#img2,#img3,#img4,#img5,#img6,#img7,#img8,#img9,#img10 {
+	width: 21%;
+	border: 10px solid white;
+}
+
+#img1{
+	margin-left: 1115px;
+    margin-top: -1450px;
+    
+}
+
+#img2{
+    padding-top: 36px;
+    width: 21%;
+    margin-left: 1520px;
+    margin-top: -1525px;
+}
+
+#img3{
+    margin-top: -1070px;
+    margin-left: 900px;
+    
+}
+
+#img4{
+    margin-top: -1070px;
+    margin-left: 5px;
+}
+
+#img5{
+	margin-top: -1110px;
+    width: 20.5%;
+    margin-left: 1700px;
+}
+
+#img6{
+	margin-top: -680px;
+	margin-left: 920px;
+}
+
+#img7{
+	margin-top: -680px;
+    margin-left: 5px;
+    width: 22%;
+}
+
+#img8{
+	margin-left: 1738px;
+	margin-top: -720px;
+	width: 22%;
+}
+
+#img9{
+	margin-left: 1100px;
+	margin-top: -265px;
+}
+
+#img10{
+	margin-left: 1500px;
+	margin-top: -304px;
+	width: 25%;
+}
+
+/*****************************************************CSS rules for desktop: 1366x720***************************************************/
+@media screen and (max-width: 1366px){
+
+    .container{
+        margin-top: -40px;
+    }
+
+    #photo1{
+
+        width: 34%;
+        margin-left: 800px;
+        margin-top: -180px;
+        transform: rotate(2deg);
+        
+    }
+
+    #photo2 {
+        margin-top: -153px;
+    }
+
+    #photo3 {
+        margin-top: -195px;
+    }
+
+    #left_title{
+        margin-left: -280px;
+    }
+
+    #center_title{
+        margin-left: -350px;
+    }
+
+    #right_title{
+        margin-left: 300px;
+    }
+
+    #hero{
+        margin-left: -50px;
+    }
+
+    #button{
+        margin-top: -30px;
+    }
+
+    #main_photo{
+        margin-left: 150px;
+        margin-top: -160px;
+    }
+
+    #module1{
+        margin-left: 2px;
+    }
+
+    #intro1{
+        margin-left: -100px;
+    }
+
+    #intro3{
+        margin-left: 440px;
+    }
+
+    #icon3{
+        margin-left: 540px;
+    }
+
+    #header1{
+        margin-left: -18px;
+    }
+
+    #header3{
+        margin-left: 510px;
+    }
+
+    #intro2{
+        margin-left: 180px;
+    }
+
+    #header2{
+        margin-left: 250px;
+    }
+
+    #icon2{
+        margin-left: 270px;
+    }
+
+    #icon1{
+        margin-left: -7px;
+    }
+
+    #banner{
+        margin-left: -400px;
+        padding-top: 500px;
+        border-bottom-width: 0px;
+    }
+
+    #head2{
+        margin-top: -230px;
+        margin-left: 295px;
+        
+    }
+
+    #para1,#para2,#para3{
+        width: 21%;
+    }
+
+    #para2{
+        margin-bottom: 5px;
+        /*margin-left: 295px;*/
+        margin-left: 278px;
+        margin-top: -60px;
+        background-color: #f1f2f6;
+        border-top-style: solid;
+        border-bottom-width: 0px;
+        border-bottom-style: solid;
+        border-right-width: 0px;
+        border-right-style: solid;
+        border-left-width: 0px;
+        border-left-style: solid;
+        border-top-width: 0px;
+        padding-right: 10px;
+        padding-left: 15px;
+        padding-bottom: 10px;
+        padding-top: 60px;
+        border-radius: 2%;    
+        
+    }
+
+    #head3{
+        margin-left: 290px;
+    }
+
+    #para3{
+        margin-left: 290px;
+    }
+
+    #photo4{
+        width: 30%;
+        margin-left: -250px;
+        margin-top: -500px;
+    }
+
+    #quote{
+        margin-top: -200px;
+        padding-top: 100px;
+        width: 70%;
+        margin-left: 50px;
+    }
+
+    #quote_mark{
+        margin-left: 20px;
+        margin-top: -150px;
+        width: 5%;
+    }
+
+    #small_quote{
+        margin-left: 1px;
+    }
+
+    #author,#role{
+        margin-left: -1px;
+    }
+
+    #img1{
+        margin-top: -720px;
+        width: 50%;
+        margin-left: 900px;
+        border: none;
+        
+    }
+
+    #head1{
+        margin-top: 20px;
+    }
+
+    #title{
+        margin-top: -680px;
+        margin-left: 270px;
+    }
+
+    #logo1{
+        margin-left: 200px;
+        margin-top: -1380px;
+    }
+
+    #banner1{
+        border-top-width: 680px;
+    }
+
+    #boutique_name, #boutique_site, #select {
+        width: 39%;
+        height: 40px;
+    }
+
+    #icon3{
+        width: 4%;
+        margin-left: 530px;
+    }
+
+    #hidden2{
+        margin-top: 280px;
+        
+    }
+
+    #p1{
+        /* width: 60%; */
+        margin-left: 0px;
+        margin-bottom: -500px;
+    }
+
+    #p3{
+        margin-top: -200px;
+    }
+
+    #p2{
+        margin-top: -120px;
+        margin-bottom: -150px;
+    }
+
+    #para1{
+        padding-bottom: 20px;
+    }
+}
+
+
+/*****************************************************CSS rules for tablet: 768x1024***************************************************/
+@media screen and (max-width: 768px){
+    body{
+        background-image: url("Assets/bg/tablet.png");
+        background-repeat: no-repeat;
+        background-position: cover ; 
+        background-size: 100%;   
+            
+    }
+    
+    #hero{
+        margin-top: -80px;
+        margin-left: -240px;
+    }
+
+    #main_photo{
+        width: 100%;
+        margin-top: 20px;
+        margin-left: 1px;
+    }
+
+    #banner{
+        padding-right: 1000px;
+        width: 1800px;
+    }
+
+    #logo1{
+        width: 10%;
+        transform: rotate(2deg);
+        margin-left: 185px;
+        margin-top: -1350px;
+    }
+
+    #title{
+        margin-top: -580px;
+        margin-left: 170px;
+        padding-bottom: 10px;
+    }
+
+    #head1,#para1{
+        margin-left: 198px;
+    }
+
+    #head2{
+        margin-top: 550px;
+        margin-left: 180px;
+    }
+
+    #para2{
+        margin-left: 180px;
+        width: 100%;
+        margin-top: 15px;
+        margin-bottom: 5px;
+        background-color: transparent;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+    }
+
+    #para1{
+        width: 65%;
+    }
+
+    #button{
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    #center_title{
+        margin-left: -310px;
+    }
+
+    #right_title{
+        margin-left: -1px;
+    }
+
+    #slogan{
+
+        font-size: 40px;
+    }
+
+    #testimonal{
+        padding-top: 100px;
+        padding-bottom: 100px;
+        margin-top: 250px;
+        margin-left: 200px;
+    }
+
+    #quote{
+        margin-top: -200px;
+        padding-top: 30px;
+        margin-left: -430px;
+        font-size: 20px;
+        width: 225%;
+    }
+
+    #quote_mark{
+        
+        margin-top: -500px;
+        padding-top: 100px;
+        width: 20%;
+        margin-left: -415px;
+        
+    }
+
+    #photo4{
+        margin-left: 1px;
+        margin-top: -180px;
+        width: 25%;
+    }
+
+    #subtitle{
+
+        font-size: 15px;
+    }
+
+    #icon1{
+        margin-left: -150px;
+        width: 10%;
+        margin-top: -180px;
+    }
+
+    #header1{
+        margin-left: -155px;
+        font-size: 18px;
+        margin-top: -45px;
+        margin-left: -159px;
+    }
+
+    #intro1{
+        margin-left: -250px;
+        font-size: 18px;
+        
+    }
+
+    #icon2{
+        width: 10%;
+        margin-top: -475px;
+    }
+
+    #header2{
+        margin-top: -185px;
+        font-size: 18px;
+    }
+
+    #intro2{
+        font-size: 18px;
+        margin-left: 150px;
+    }
+
+    #icon3{
+        margin-top: 100px;
+        margin-left: -150px;
+        width: 10%;
+    }
+
+    #header3{
+        margin-left: -170px;
+        margin-top: 30px;
+        font-size: 18px;
+    }
+
+    #intro3{
+        margin-left: -258px;
+        font-size: 18px;
+    }
+
+    #icon4{
+        margin-left: 270px;
+        width: 10%;
+        margin-top: -410px;
+    }
+
+    #header4{
+        margin-left: 200px;
+        margin-top: -158px;
+        font-size: 18px;
+    }
+
+    #intro4{
+        margin-left: 150px;
+        font-size: 18px;
+    }
+
+    #banner1 {
+        border-top-width: 680px;
+        margin-left: -650px;
+    }
+
+    #boutique_name, #boutique_site, #select {
+        width: 65%;
+        height: 40px;
+    }
+
+    #submit{
+        margin-left: 250px;
+    }
+
+    #copyright{
+        margin-left: -150px;
+    }
+
+    
+    #photo1{
+        margin-left: 150px;
+        margin-top: -40px;
+        width: 80%;
+    }
+
+    #photo2{
+        margin-left: 130px;
+        margin-top: 100px;
+        width: 80%;
+    }
+
+    #para3{
+        width: 100%;
+        margin-left: 160px;
+    }
+
+    #head3{
+        margin-top: 200px;
+        margin-left: 160px;
+    }
+
+    #photo3{
+        margin-top: 175px;
+        width: 80%;
+        margin-left: 120px;
+    }
+
+}
+
+/*****************************************************CSS rules for mobile: 375x812***************************************************/
+@media screen and (max-width: 375px){
+
+    body{
+        background-image: url("Assets/bg/desktop.png");
+        background-repeat: no-repeat;
+        background-position: cover ; 
+        background-size: 100%;   
+            
+    }
+    #right_title{
+        margin-left: 150px;
+    }
+
+    #subtitle{
+        font-size: 12px;
+        margin-top: 140px;
+    }
+
+    #slogan{
+        font-size: 24px;
+    }
+
+    #main_photo {
+        width: 120%;
+        margin-left: -60px;
+    }
+
+    #icon1{
+        width: 70%;
+        margin-left: -140px;
+    }
+
+    #header1{
+        margin-left: -150px;
+    }
+
+    #intro1{
+        margin-left: -260px;
+    }
+
+    #icon2{
+        width: 70%;
+        margin-left: -140px;
+        margin-top: 20px;
+    }
+
+    #header2{
+        margin-left: -165px;
+        margin-top: 30px;
+    }
+
+    #intro2{
+        margin-left: -250px;
+    }
+
+    #icon3{
+        width: 70%;
+        margin-left: -139px;
+        margin-top: 20px;
+    }
+
+    #header4{
+        margin-left: -200px;
+        margin-top: 30px;
+    }
+
+    #intro4{
+        margin-left: -250px;
+    }
+
+    #icon4{
+        margin-left: -140px;
+        width: 70%;
+        margin-top: 20px;
+    }
+
+    #logo1{
+        width: 20%;
+        margin-left: 140px;
+    }
+
+    #title{
+        margin-left: 115px;
+        width: 100%;
+    }
+
+    #head1,#para1{
+        margin-left: 140px;
+    }
+
+    #para1,#para2,#para3{
+        font-size: 16px;
+    }
+
+    #para1 {
+        width: 90%;
+    }
+
+    #head2{
+        margin-top: -250px;
+        margin-left: 130px;
+    }
+
+    #para2{
+        margin-left: 130px;
+    }
+
+    #head3,#para3{
+        margin-left: 120px;
+    }
+
+    #quote{
+        width: 340px;        
+        margin-left: -480px;
+        font-size: 22px;
+        
+    }
+
+    #small_quote{
+        margin-left: 2px;
+    }
+
+    #author,#role{
+        margin-left: 2px;
+    }
+
+    #photo4{
+        width: 50%;
+        margin-left: 0px;
+    }
+
+    #first_name,#email{
+        width: 80%;
+    }
+
+    #last_name,#phone{
+        margin-left: -80px;
+        width: 150%;
+    }
+
+    #lastname{
+        margin-left: -80px;
+    }
+
+    #bphone{
+        margin-left: -80px;
+        width: 200px;
+    }
+    #banner{
+        margin-right: 2px;
+        width: 1330px;
+    }
+
+    #email{
+        margin-top: -20px;
+    }
+
+    #phone{
+        width: 115%;
+    }
+    #myform{
+        width: 420px;
+        margin-left: 380px;
+    }
+
+    #boutique_name,#boutique_site,#select{
+        width: 70%;
+    }
+
+    #submit{
+        margin-left: 85px;
+    }
+
+    #title1{
+        margin-left: 380px;
+    }
+
+    #copyright{
+        margin-left: -168px;
+    }
+
+    #p2 {
+        margin-left: 130px;
+        margin-top: 150px;
+        width: 80%;
+    }
+
+    #hidden2{
+        margin-top: 550px;
+    }
+
+    #photo1{
+        width: 100%;
+        margin-left: 120px;
+        margin-top: -20px;
+    }
+
+    #photo2{
+        width: 130%;
+        margin-left: -20px;
+        margin-top: -140px;
+    }
+
+    #photo3{
+        width: 105%;
+        margin-left: 100px;
+        margin-top: 200px;
+    }
+
+    #quote_mark{
+        width: 60%;
+        margin-left: -460px;
+    }
+
+    #testimonal{
+        width: 100%;
+    }
+}
